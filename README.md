@@ -6,6 +6,12 @@ This is just a sample read-me file to practice with GitHub. In this repositiory,
 - [LOCATION](#Location)
 - [DESCRIPTION](#Description)
 
+
+
+
+
+
+
   ## Photo Title
   It's a picture of me!
 
