@@ -1,6 +1,6 @@
 This is just a sample read-me file to practice with GitHub. In this repositiory, I just uploaded a file of a picture of me.
 
-##Table of Contents
+## Table of Contents
 
 - [PHOTO TITLE](#PhotoTitle)
 - [LOCATION](#Location)
