@@ -13,10 +13,10 @@ This is just a sample read-me file to practice with GitHub. In this repositiory,
 
 
   ## Photo Title
-  It's a picture of me!
+  *It's a picture of me!*
 
   ## Location
-  This picture was taken at Banff National Park at Moraine Lake in Alberta, CA.
+  - Bullet This picture was taken at Banff National Park at Moraine Lake in Alberta, CA.
 
   ## Description
   This picture was taken during a road trip during the summer of 2024. 
