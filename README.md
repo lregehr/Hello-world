@@ -20,3 +20,6 @@ This is just a sample read-me file to practice with GitHub. In this repositiory,
 
   ## Description
   This picture was taken during a road trip during the summer of 2024. 
+
+  ## Photographer
+  The photo is taken by my girlfriend, Amelia!
